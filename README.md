@@ -1,5 +1,5 @@
 # BeerChops
-Fallout 4 Papyrus script by ThoraldGM | https://modforge.net | Updated 20180203
+Fallout 4 Papyrus mod by ThoraldGM | https://modforge.net | Updated 20180203
 
 Beer Chops mod: url pending
 
